@@ -9,6 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.Duration;
+
 //הכנתי את הפרויקט ביחד עם חברה
 public class SettingsTest {
 
