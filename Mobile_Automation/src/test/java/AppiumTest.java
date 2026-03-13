@@ -20,7 +20,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
-//הכנתי את הפרויקט ביחד עם חברה
+//הכנתי את הפרויקט ביחד עם חברות
 public class AppiumTest {
 
     private static AndroidDriver driver;
