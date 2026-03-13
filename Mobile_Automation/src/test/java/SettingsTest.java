@@ -10,7 +10,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.Duration;
 
-//הכנתי את הפרויקט ביחד עם חברה
+//הכנתי את הפרויקט ביחד עם חברות
 public class SettingsTest {
 
     private static AndroidDriver driver;
